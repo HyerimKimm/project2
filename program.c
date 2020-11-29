@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+int fib(int n){
+    
+}
+
 int main()
 {
   printf("Hello world!\n");
